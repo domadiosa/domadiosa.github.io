@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://domadiosa.github.io/sitemap.xml
